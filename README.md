@@ -5,6 +5,8 @@
  - Criação da estrutura de um projeto básico, react + react-dom
  - Configurando babel
    - yarn add @babel/core @babel/cli @babel/preset-env - D
+   - yarn babel src/index.js --out-file dist/bundle.js
+   - yarn add @babel/preset-react -D
  - Configurando Webpack
  - Estrutura do ReactJS
  - Servidor HTML estático
