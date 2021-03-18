@@ -1,3 +1,6 @@
-# ignite-rocketseat
+<h1 align="center">Ignite Rocketseat 🚀</h1>
 
-Aula 01 - Criação da estrutura de um projeto básico, react + react-dom
+
+## Configurando API
+
+ - Criação da estrutura de um projeto básico, react + react-dom
