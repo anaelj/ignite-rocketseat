@@ -31,7 +31,7 @@
 ## Usando TypeScript
  - Fundamentos do TypeScript
  - TypeScript no ReactJS
-   yarn tsc --init para add typescript ao projeto e criar o arquivo tsconfig
+   - yarn tsc --init para add typescript ao projeto e criar o arquivo tsconfig
  - Componentes coom TypeScript
 
 ## Finalizando aplicação
