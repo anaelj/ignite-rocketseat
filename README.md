@@ -32,6 +32,9 @@
  - Fundamentos do TypeScript
  - TypeScript no ReactJS
    - yarn tsc --init para add typescript ao projeto e criar o arquivo tsconfig
+   - Configurações do arquivo tsconfig.json
+     - lib: ["dom", "dom.iterable", "esnext"]
+     - allowJs: true
  - Componentes coom TypeScript
 
 ## Finalizando aplicação
