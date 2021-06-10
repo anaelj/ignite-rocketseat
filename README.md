@@ -44,7 +44,10 @@
      - mesmo nível do compileOption -> "include": ["src"]
    - yarn add @babel/preset-typescript -D
    - babelconfig.js e add -> @babel/preset-typescript
-   - webpack.config.js e change -> test: /\. (j|t)sx$/,
+   - webpack.config.js 
+     - test: /\.(j|t)sx$/,
+     - extensions: ['.js', '.jsx', '.ts', '.tsx']
+     - entry: path.resolve(__dirname, 'src', 'index.tsx')
  - Componentes coom TypeScript
 
 ## Finalizando aplicação
