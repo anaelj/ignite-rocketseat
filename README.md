@@ -42,6 +42,9 @@
      - "noEmit": true
      - "jsx" : "react-js"
      - mesmo nível do compileOption -> "include": ["src"]
+   - yarn add @babel/preset-typescript -D
+   - babelconfig.js e add -> @babel/preset-typescript
+   - webpack.config.js e change -> test: /\. (j|t)sx$/,
  - Componentes coom TypeScript
 
 ## Finalizando aplicação
